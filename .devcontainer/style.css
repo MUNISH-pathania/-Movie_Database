@@ -1,0 +1,9 @@
+body{
+    Background: blue;
+
+}
+.container{
+    display:flex;
+    background: rgb(222, 218, 218);
+    padding: 100px;
+}
