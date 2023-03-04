@@ -65,3 +65,17 @@ margin: 10px;
 .hide{
     display: none;
 }
+.reterivalDiv{
+    display: flex;
+    flex-direction: row;
+    background: rgb(255, 255, 255) ;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.movie-p{
+width: 25%;
+}
+.edit{
+    padding: 5px;
+}
